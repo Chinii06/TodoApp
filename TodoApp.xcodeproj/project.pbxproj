@@ -16,7 +16,7 @@
 		AE0CE48E2B2959A1008C4CDB /* TodoStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0CE4872B2959A1008C4CDB /* TodoStorage.swift */; };
 		AE0CE48F2B2959A1008C4CDB /* TodoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0CE4882B2959A1008C4CDB /* TodoItem.swift */; };
 		AE0CE4902B2959A1008C4CDB /* EditProjectName.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0CE4892B2959A1008C4CDB /* EditProjectName.swift */; };
-		AE0CE4912B2959A1008C4CDB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0CE48A2B2959A1008C4CDB /* ContentView.swift */; };
+		AE0CE4932B295B69008C4CDB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0CE4922B295B69008C4CDB /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,7 +31,7 @@
 		AE0CE4872B2959A1008C4CDB /* TodoStorage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TodoStorage.swift; sourceTree = "<group>"; };
 		AE0CE4882B2959A1008C4CDB /* TodoItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TodoItem.swift; sourceTree = "<group>"; };
 		AE0CE4892B2959A1008C4CDB /* EditProjectName.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditProjectName.swift; sourceTree = "<group>"; };
-		AE0CE48A2B2959A1008C4CDB /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = "../../../Xcode Project /TodoList/TodoList/ContentView.swift"; sourceTree = "<group>"; };
+		AE0CE4922B295B69008C4CDB /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,7 +67,7 @@
 				AE0CE4752B295957008C4CDB /* TodoAppApp.swift */,
 				AE0CE4852B2959A1008C4CDB /* AddInsideTodo.swift */,
 				AE0CE4842B2959A1008C4CDB /* AddTodo.swift */,
-				AE0CE48A2B2959A1008C4CDB /* ContentView.swift */,
+				AE0CE4922B295B69008C4CDB /* ContentView.swift */,
 				AE0CE4892B2959A1008C4CDB /* EditProjectName.swift */,
 				AE0CE4862B2959A1008C4CDB /* ListView.swift */,
 				AE0CE4882B2959A1008C4CDB /* TodoItem.swift */,
@@ -162,7 +162,7 @@
 				AE0CE48C2B2959A1008C4CDB /* AddInsideTodo.swift in Sources */,
 				AE0CE48D2B2959A1008C4CDB /* ListView.swift in Sources */,
 				AE0CE48E2B2959A1008C4CDB /* TodoStorage.swift in Sources */,
-				AE0CE4912B2959A1008C4CDB /* ContentView.swift in Sources */,
+				AE0CE4932B295B69008C4CDB /* ContentView.swift in Sources */,
 				AE0CE4902B2959A1008C4CDB /* EditProjectName.swift in Sources */,
 				AE0CE4762B295957008C4CDB /* TodoAppApp.swift in Sources */,
 			);
